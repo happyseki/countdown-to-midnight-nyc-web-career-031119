@@ -1,5 +1,5 @@
 #write your code here
 
-def countdown()
+def countdown(seconds)
   return "HAPPY NEW YEAR!"
 end
